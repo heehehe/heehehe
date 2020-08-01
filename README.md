@@ -1,4 +1,10 @@
-### Hi there 👋
+### 전희선 (HEESEON CHEON)
+
+Dreaming of a more valuable world with DATA :thumbsup:
+ 
+- **NAVER Corp.** Search CIC - NLP TopicNet (August 2020 ~ )
+- **KyungHee University** B.S. in Applied Mathematics & Computer Engineering (March 2016 ~ )
+
 
 <!--
 **heehehe/heehehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
