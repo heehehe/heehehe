@@ -23,7 +23,7 @@ Dreaming of a more valuable world with DATA :thumbsup:
 
 ### Contact
 
-
+<a href="heeseon0315@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/heeseon-cheon-a923b8175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
 
 
 <!--
