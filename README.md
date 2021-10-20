@@ -1,6 +1,6 @@
 <div align=right>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheehehe&count_bg=%23686060&title_bg=%23090909&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/heehehe?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheehehe&count_bg=%23686060&title_bg=%23090909&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
@@ -26,6 +26,7 @@ Dreaming of a more valuable world with DATA :thumbsup:
 **heehehe/heehehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://img.shields.io/badge/[텍스트]-[컬러코드]?style=flat-square&logo=[simpleicons에서의_아이콘명]&logoColor=white"/>
+![followers](https://img.shields.io/github/followers/heehehe?style=social)
 
 Here are some ideas to get you started:
 
