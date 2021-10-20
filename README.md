@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Welcome%20to%20heehehe's%20Github&fontSize=55&animation=twinkling)
+<div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheehehe&count_bg=%23686060&title_bg=%23090909&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome%20to%20heehehe's%20Github&fontSize=55&animation=twinkling)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheehehe&count_bg=%23686060&title_bg=%23090909&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/heehehe?style=social)
+  
+</div>
 
 Dreaming of a more valuable world with DATA :thumbsup:
 
@@ -10,6 +14,8 @@ Dreaming of a more valuable world with DATA :thumbsup:
 ### Skills
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heehehe)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heehehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
