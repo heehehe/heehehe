@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome%20to%20heehehe's%20Github&fontSize=55&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20heehehe's%20Github&fontSize=55&animation=twinkling)
 
 </div>
 
