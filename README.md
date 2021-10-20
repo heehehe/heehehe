@@ -10,7 +10,11 @@
 
 </div>
 
-Dreaming of a more valuable world with DATA :thumbsup:
+<div align=center>
+  
+_👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
+
+</div>
 
 - **NAVER Corp.** Data Engineer in Search CIC - NLP (August 2020 ~ )
 - **KyungHee University** B.S. in Applied Mathematics & Computer Engineering (March 2016 ~ February 2021)
