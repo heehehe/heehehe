@@ -38,7 +38,7 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/heeseon-cheon-a923b8175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:heeseon.cheon@navercorp.com)](mailto:heeseon.cheon@navercorp.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heeseon0315@gmail.com)](mailto:heeseon0315@gmail.com) <a href="https://heehehe-ds.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/>
+<a href="https://www.linkedin.com/in/heeseon-cheon-a923b8175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heeseon0315@gmail.com)](mailto:heeseon.cheon@gmail.com) <a href="https://heehehe-ds.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/>
 
 
 <!--
