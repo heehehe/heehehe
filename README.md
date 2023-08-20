@@ -20,7 +20,7 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 - **KyungHee University** B.S. in Applied Mathematics & Computer Engineering (March 2016 ~ February 2021)
 
 ## List of Open Source Contributions
-### python-mysql-replication
+### [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
 Pure Python implementation of MySQL replication protocol
 
 PR | summary
