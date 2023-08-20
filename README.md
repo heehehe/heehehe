@@ -25,7 +25,7 @@ Pure Python implementation of MySQL replication protocol
 
 PR | summary
 --|--
-[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Developed RandEvent and add statement-based logging test
+[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Implemented RandEvent & statement-based logging test
 [#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent
 
 
