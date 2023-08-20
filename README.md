@@ -19,7 +19,7 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 - **NAVER Corp.** Data Engineer in Search CIC - Knowledge Base (August 2020 ~ )
 - **KyungHee University** B.S. in Applied Mathematics & Computer Engineering (March 2016 ~ February 2021)
 
-### Skills
+## Skills
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
@@ -36,7 +36,18 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heehehe)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heehehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Contact
+## Open Source Contribution
+### python-mysql-replication
+Pure Python implementation of MySQL replication protocol
+
+PR | summary
+--|--
+[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Developed RandEvent and add statement-based logging test
+[#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent
+
+
+
+## Contact
 
 <a href="https://www.linkedin.com/in/heeseon-cheon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heeseon0315@gmail.com)](mailto:heeseon.cheon@gmail.com) <a href="https://heehehe-ds.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/>
 
