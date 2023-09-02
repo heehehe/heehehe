@@ -27,7 +27,8 @@ PR | summary
 --|--
 [#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Implemented RandEvent & statement-based logging test
 [#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent
-
+[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464) | Modify docstrings based on PEP8
+[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implemented UserVarEvent
 
 ## Skills
 
