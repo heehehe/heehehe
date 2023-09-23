@@ -23,12 +23,13 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 ### [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
 Pure Python implementation of MySQL replication protocol
 
-PR | summary
---|--
-[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Implemented RandEvent & statement-based logging test
-[#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent
-[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464) | Modify docstrings based on PEP8
-[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implemented UserVarEvent
+PR | summary | status
+--|--|--
+[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Implemented RandEvent & statement-based logging test | Merged
+[#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent | Merged
+[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464) | Modify docstrings based on PEP8 | Merged
+[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implemented UserVarEvent | Merged
+[#484](https://github.com/julien-duponchelle/python-mysql-replication/pull/484) | Enhance Testing with Mysql8 | In Review
 
 ## Skills
 
