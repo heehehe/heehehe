@@ -30,6 +30,7 @@ PR | summary | status
 [#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464) | Modify docstrings based on PEP8 | Merged
 [#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implemented UserVarEvent | Merged
 [#484](https://github.com/julien-duponchelle/python-mysql-replication/pull/484) | Enhance Testing with MySQL8 | Merged
+[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489) | Distinguish ambiguous column value of None | In Review
 
 ## Skills
 
