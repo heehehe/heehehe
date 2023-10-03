@@ -31,6 +31,7 @@ PR | summary | status
 [#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implement UserVarEvent | Merged
 [#484](https://github.com/julien-duponchelle/python-mysql-replication/pull/484) | Enhance Testing with MySQL8 | Merged
 [#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489) | Distinguish ambiguous column value of None | In Review
+[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502) | Modify test structure | In Review
 
 ## Skills
 
