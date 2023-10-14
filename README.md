@@ -23,15 +23,15 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 ### [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
 Pure Python implementation of MySQL replication protocol
 
-PR | summary | status
---|--|--
-[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Implement RandEvent & statement-based logging test | Merged
-[#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent | Merged
-[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464) | Modify docstrings based on PEP8 | Merged
-[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implement UserVarEvent | Merged
-[#484](https://github.com/julien-duponchelle/python-mysql-replication/pull/484) | Enhance Testing with MySQL8 | Merged
-[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489) | Distinguish ambiguous column value of None | Merged
-[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502) | Modify test structure | Merged
+PR | summary
+--|--
+[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414) | Implement RandEvent & statement-based logging test
+[#420](https://github.com/julien-duponchelle/python-mysql-replication/pull/420) | Fix typo in XAPrepareEvent
+[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464) | Modify docstrings based on PEP8
+[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466) | Implement UserVarEvent
+[#484](https://github.com/julien-duponchelle/python-mysql-replication/pull/484) | Enhance Testing with MySQL8
+[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489) | Distinguish ambiguous column value of None
+[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502) | Modify test structure
 
 ## Skills
 
