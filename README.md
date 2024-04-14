@@ -16,9 +16,10 @@ _👩‍💻 Dreaming of a more valuable world with DATA 👩‍💻_
 
 </div>
 
-- **NAVER Corp.** Data Engineer in Search CIC - Knowledge Base Team (2020.08 ~ )
-- **PseudoLab** 5-7th runner / 8th builder (2022.09 ~ )
-    - Participated in [DE4E(Data Engineering for Everybody)](https://github.com/Pseudo-Lab/data-engineering-for-everybody)
+- **NAVER Corp.** Data Engineer in Knowledge Graph Team (2020.08~)
+- **PseudoLab** 5-7th runner(/learner) & 8th builder (2022.09~)
+    - Runner/Learner of [DE4E(Data Engineering for Everybody)](https://github.com/Pseudo-Lab/data-engineering-for-everybody) Project
+    - Builder of [CPython-Guide](https://github.com/Pseudo-Lab/CPython-Guide) Project
 - **OSSCA 2023(Open Source Contribution Academy 2023)** Lead Mentee (2023.07 ~ 2023.10)
     - Participated in [python-mysql-replication](https://github.com/23-OSSCA-python-mysql-replication/python-mysql-replication)
 
