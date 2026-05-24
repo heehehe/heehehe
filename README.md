@@ -51,15 +51,15 @@ PR | summary
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heehehe)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heehehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heehehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
 <a href="https://www.linkedin.com/in/heeseon-cheon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heeseon0315@gmail.com)](mailto:heeseon.cheon@gmail.com) <a href="https://heehehe-ds.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/>
 
+-->
 
 <!--
 **heehehe/heehehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
