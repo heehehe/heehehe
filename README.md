@@ -37,6 +37,7 @@ PR | summary
 [#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489) | Distinguish ambiguous column value of None
 [#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502) | Modify test structure
 
+<!--
 ## Skills
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
@@ -50,6 +51,7 @@ PR | summary
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heehehe)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heehehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
