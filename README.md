@@ -37,6 +37,13 @@ PR | summary
 [#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489) | Distinguish ambiguous column value of None
 [#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502) | Modify test structure
 
+## [trino-gateway](https://github.com/trinodb/trino-gateway)
+A load balancer, proxy server, and configurable routing gateway for multiple Trino clusters.
+
+PR | summary
+--|--
+[#1289](https://github.com/trinodb/trino-gateway/pull/1289) | Fix decode order of X-Trino-Prepared-Statement header
+
 <!--
 ## Skills
 
